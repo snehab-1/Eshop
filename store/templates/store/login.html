@@ -1,0 +1,38 @@
+{% extends 'store/base.html' %}
+{% load static %}
+{% block content %}
+<div class="container">
+    <div class="p-4 m-4">
+        <div  class="col-lg-4 col-md-5 mt-4 mb-4 mx-auto border rounded p-4">
+            <h3 class="alert alert-light border mt-4 mb-4 rounded">Login Here</h3>
+            <form action="/login" method="POST">
+                {% csrf_token %}
+
+                {% if error %}
+                <div class="alert alert-danger" role="alert">
+                    {{error}}
+                </div>
+                {% endif %}
+
+                <!--email-->
+                <div class="form-group">
+                    <label for="">Email</label>
+                    <input type="email" name="email" id="" value="{{values.email}}" class="form-control form-control-sm" placeholder="example@gmail.com">
+                </div>
+
+                <!--password-->
+                <div class="form-group">
+                    <label for="">Password</label>
+                    <input type="password" name="password" id="" value="{{values.password}}" class="form-control form-control-sm" placeholder="password">
+                </div>
+                
+                <!--button-->
+                <div class="form-group"><br>
+                    <input class="btn btn-sm btn-info col-lg-4" type="submit" value="Login">
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock content %}
