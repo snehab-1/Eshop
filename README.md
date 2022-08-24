@@ -3,3 +3,6 @@ This project was created primarily for the sale and purchase of various items. Y
 
 ## Requirements
 Django version == 4.0.6
+Bootstrap
+
+Yo can install all requirements and packages
