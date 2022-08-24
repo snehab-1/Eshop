@@ -7,7 +7,7 @@ Django version == 4.0.6
 ```
 Bootstrap
 
-Yo can install all requirements and packages
+For all packages you have to install
 ```
 pip install -r. \requirments.txt
 ```
