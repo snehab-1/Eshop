@@ -11,5 +11,16 @@ For all packages you have to install
 ```
 pip install -r. \requirments.txt
 ```
-<img href="https://i.ibb.co/108739825/187044815-21710315-97ba-464b-abc0-3b1c25893b84.png alt="Home">
+## Home
+
+<img style="width:800px;" src="https://user-images.githubusercontent.com/108739825/187045940-fa0a6be2-6f80-49e5-93e5-f0b993208eb6.png" alt="img">
+
+## Cart
+
+<img style="width:800px;" src="https://user-images.githubusercontent.com/108739825/187045964-6afe5e86-6a3e-47bc-8223-9d05f24abda9.png" alt="img">
+
+## Orders 
+
+<img style="width:800px;" src="https://user-images.githubusercontent.com/108739825/187045500-1679ed74-4c80-4928-8a7b-ae028324eff2.png" alt="img">
+
 
