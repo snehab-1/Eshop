@@ -11,6 +11,4 @@ For all packages you have to install
 ```
 pip install -r. \requirments.txt
 ```
-##Hpme
-
-<img src="https://.jpg" alt="Home" />
+##Home
