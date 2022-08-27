@@ -15,6 +15,11 @@ pip install -r. \requirments.txt
 
 <img style="width:800px;" src="https://user-images.githubusercontent.com/108739825/187045940-fa0a6be2-6f80-49e5-93e5-f0b993208eb6.png" alt="img">
 
+## Add Cart
+
+<img style="width:800px;" src="https://user-images.githubusercontent.com/108739825/187046282-715688d3-f63d-403c-bee9-397208cdadfc.png" alt="img">
+
+
 ## Cart
 
 <img style="width:800px;" src="https://user-images.githubusercontent.com/108739825/187045964-6afe5e86-6a3e-47bc-8223-9d05f24abda9.png" alt="img">
